@@ -1,6 +1,4 @@
-# Chapter 1 - Preliminaries
-
-6\. Prove $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$
+Prove $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$
 
 *Proof*
 
@@ -22,4 +20,3 @@ Conversely, suppose that $x \in (A \cup B) \cap (A \cup C)$. Since $x$ is in bot
 Therefore, $(A \cup B) \cap (A \cup C) \subset A \cup (B \cap C)$.
 
 Hence, $(A \cup B) \cap (A \cup C) = A \cup (B \cap C)$.
-  
