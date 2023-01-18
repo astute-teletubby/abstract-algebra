@@ -18,7 +18,7 @@ Since every nonzero real number $\lambda$ has a real reciprocal $1/ \lambda$, we
 
 **Transitivity**
 
-Let $ (x_1,\ y_1), \ (x_2,\ y_2), \ (x_3,\ y_3) \in \mathbb{R}^2 \ \smallsetminus \ \{(0,\ 0)\}$ where
+Let $(x_1,\ y_1), \ (x_2,\ y_2), \ (x_3,\ y_3) \in \mathbb{R}^2 \ \smallsetminus \ \{(0,\ 0)\}$ where
 
 &emsp; $(x_1,\ y_1)=(\theta \ x_2,\theta \ y_2) \rightarrow (x_1,\  y_1) \sim (x_2,\ y_2)$
 
