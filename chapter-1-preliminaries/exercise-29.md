@@ -1,4 +1,4 @@
-**Projective Real Line.** Define a relation on $\mathbb{R}^2 \ \smallsetminus \ \{(0,\ 0)\}$ by letting $(x_1,\ y_1) \sim (x_2,\ y_2)$ if there exists a nonzero real number $\lambda$ such that $(x_1,\ y_1)=(\lambda \ x_2,\ \lambda \  y_2)$. Prove that $\sim$ defines an equivalence relation on $\mathbb{R}^2 \ \smallsetminus \ \{(0,\ 0)\}$. What are the coresponding equivalence classes? This equivalence relation defines the projective line, denoted by $\mathbb{P}(\mathbb{R})$, which is very important in geometry.
+**Projective Real Line.** Define a relation on $\mathbb{R}^2 \ \smallsetminus \ \{(0,\ 0)\}$ by letting $(x_1,\ y_1) \sim (x_2,\ y_2)$ if there exists a nonzero real number $\lambda$ such that $(x_1,\ y_1)=(\lambda \ x_2,\ \lambda \  y_2)$. Prove that $\sim$ defines an equivalence relation on $\mathbb{R}^2 \ \smallsetminus \ \{(0,\ 0)\}$. What are the coresponding equivalence classes? This equivalence relation defines the projective line, denoted by $\mathbb{P}(\mathbb{R})$.
 
 *Proof*
 
