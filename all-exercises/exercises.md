@@ -47,7 +47,7 @@ Now since $f$ and $g$ are invertible, it follows from the definition of an inver
 
 Combining the above expressions we find that
 
-&emsp; ($g \circ f) (a) = g(f(a)) = g(b) = c$
+&emsp; $(g \circ f) (a) = g(f(a)) = g(b) = c$
 
 And using the definition of an inverse
 
